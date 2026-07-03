@@ -134,13 +134,13 @@
   border: 1px solid transparent;
   padding: 14px 28px;
   font-size: 16px;
-  box-shadow: 0 4px 14px rgba(170, 59, 255, 0.25);
+  box-shadow: 0 4px 14px rgba(0, 119, 182, 0.25);
 }
 
 .btn-primary:hover:not(:disabled) {
   opacity: 0.95;
   transform: translateY(-1px);
-  box-shadow: 0 6px 20px rgba(170, 59, 255, 0.35);
+  box-shadow: 0 6px 20px rgba(0, 119, 182, 0.35);
 }
 
 .btn-primary:active:not(:disabled) {
